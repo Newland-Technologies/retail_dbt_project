@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: retail
+    database: dbtproject-507217 # "{{ env_var('GCP_PROJECT_ID') }}"
+    schema: retail_raw
+    tables:
+      - name: customers
+      - name: products
+      - name: stores
+      - name: orders
+      - name: order_items
+      - name: payments

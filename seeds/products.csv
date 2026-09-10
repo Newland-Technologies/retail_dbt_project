@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost
+p001,Sample Product 01,home,15.00,9.00
+p002,Sample Product 02,accessories,20.00,12.00
+p003,Sample Product 03,electronics,25.00,15.00
+p004,Sample Product 04,outdoor,30.00,18.00
+p005,Sample Product 05,home,35.00,21.00
+p006,Sample Product 06,accessories,40.00,24.00
+p007,Sample Product 07,electronics,45.00,27.00
+p008,Sample Product 08,outdoor,50.00,30.00
+p009,Sample Product 09,home,55.00,33.00
+p010,Sample Product 10,accessories,60.00,36.00

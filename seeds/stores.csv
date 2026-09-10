@@ -1,0 +1,7 @@
+store_id,store_name,city,country,region
+s001,New York Retail,New York,US,Northeast
+s002,Toronto Retail,Toronto,CA,Ontario
+s003,London Retail,London,GB,England
+s004,Sydney Retail,Sydney,AU,New South Wales
+s005,Chicago Retail,Chicago,US,Midwest
+s006,Vancouver Retail,Vancouver,CA,British Columbia
